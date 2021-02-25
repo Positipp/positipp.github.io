@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:400,600,700|Poppins:500,600,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:400,500,600,800&display=swap');
 
 // Core variables
 $version: "0.5.8";
@@ -61,8 +62,8 @@ $cjk-jp-font-family: $base-font-family, "Hiragino Sans", "Hiragino Kaku Gothic P
 $cjk-ko-font-family: $base-font-family, "Malgun Gothic", $fallback-font-family !default;
 $body-font-family: $base-font-family !default;
 
-$header-font-family: "Poppins", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto !default;
-
+// $header-font-family: "Poppins", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto !default;
+$header-font-family: "Monserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto !default;
 // Unit sizes
 $unit-o: .05rem !default;
 $unit-h: .1rem !default;
@@ -82,9 +83,9 @@ $unit-16: 3.2rem !default;
 // Font sizes
 $html-font-size: 20px !default;
 $html-line-height: 1.5 !default;
-$font-size: .8rem !default;
+$font-size: .9rem !default;
 $font-size-sm: .7rem !default;
-$font-size-lg: .9rem !default;
+$font-size-lg: .10rem !default;
 $line-height: 1.2rem !default;
 
 // Sizes
