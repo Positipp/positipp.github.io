@@ -1,12 +1,23 @@
 #This file defines all the categories you are using
 
-
-using-subcategories:
-  name: Using Subcategories
-  description: Learn to use subcategories!
-using-odin:
-  name: Using Odin
-  description: Welcome to Odin, time to get started
-customizing-odin:
-  name: Customizing Odin
-  description: Welcome to Odin, time to get started
+app-category:
+  name: la App
+  description: Aprende cómo usar la App de Positipp
+  articles: 1
+dashboard-category:
+  name: el Dashboard
+  description: Resuelve tus dudas del dashboard
+  articles: 2
+about-category:
+  name: acerca de
+  description: Sobre nosotros y Positipp
+  articles: 3
+# using-subcategories:
+#   name: Using Subcategories
+#   description: Learn to use subcategories!
+# using-odin:
+#   name: Using Odin
+#   description: Welcome to Odin, time to get started
+# customizing-odin:
+#   name: Customizing Odin
+#   description: Welcome to Odin, time to get started

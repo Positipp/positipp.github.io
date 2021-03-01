@@ -40,6 +40,12 @@ layout: default
                   {% else %}
                   <p class="m-0">{{ category | last | size }} articles</p>
                   {% endif %}
+
+                  {% if page_subcategory.articles == 1 %}
+                  <p class="m-0">{{ category | last | size }} article</p>
+                  {% else %}
+                  <p class="m-0">{{ category | last | size }} articles</p>
+                  {% endif %}
                 </div>
               </div>
             </a>
@@ -47,7 +53,7 @@ layout: default
           {% endif %}
         {% endfor %} 
       {% else %}
-        {% for post in site.categories.[page.category] %}
+        {% for post in site.categories[page.category] %}
           {% include article-card.html %}
         {% endfor %}
       {% endif %}

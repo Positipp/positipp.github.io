@@ -30,10 +30,10 @@ use_authors: true #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_logo_small: logo_small.png
 brand_name: Positipp
-header: ¿Como podemos ayudarte?
+header: ¿Cómo podemos ayudarte?
 subheader: Base de conocimiento y documentación de soporte
 
-meta_image: odin-meta.png
+meta_image: positipp-meta.png
 
 # Social Links
 twitter_username: PositippEX
@@ -59,7 +59,7 @@ nav_button_link: https://positipp.github.io
 
 # More Help
 help_one_title: Dudas
-help_one_content: Si no encuentras aquí lo que necesitas puedes contactarnos por correo.
+help_one_content: Si no encuentras aquí lo que necesitas siempre puedes contactarnos por correo.
 help_one_button: Email
 # help_one_link: https://github.com/TeaGuns/odin/issues
 help_one_link: mailto:hello@positipp.com
@@ -67,8 +67,7 @@ help_one_link: mailto:hello@positipp.com
 help_two_title: Errores
 help_two_content: Si encuentras algun error o problema con Positipp, por favor abre una issue en Github.
 help_two_button: Github
-# help_one_link: https://github.com/TeaGuns/odin/issues
-help_two_link: https://positipp.github.io # TODO poner link a las issues de Positipp
+help_two_link: https://github.com/Positipp/positipp.github.io/issues 
 
 # Build settings
 theme: minima
