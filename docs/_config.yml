@@ -61,7 +61,6 @@ nav_button_link: https://positipp.github.io
 help_one_title: Dudas
 help_one_content: Si no encuentras aquí lo que necesitas siempre puedes contactarnos por correo.
 help_one_button: Email
-# help_one_link: https://github.com/TeaGuns/odin/issues
 help_one_link: mailto:hello@positipp.com
 
 help_two_title: Errores
