@@ -2,7 +2,7 @@
 layout: post
 title: "Changing Odin's Base Content"
 date: 2019-11-05 08:44:38 -0400
-category: customizing-odin
+category: about-categoryX
 author: mac
 short-description: Adding your brand name, links, etc
 ---

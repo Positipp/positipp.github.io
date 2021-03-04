@@ -53,7 +53,8 @@ layout: default
           {% endif %}
         {% endfor %} 
       {% else %}
-        {% for post in site.categories[page.category] %}
+        {% assign sorted_posts = site.categories[page.category] | sort: 'date' %}
+        {% for post in sorted_posts %}
           {% include article-card.html %}
         {% endfor %}
       {% endif %}
