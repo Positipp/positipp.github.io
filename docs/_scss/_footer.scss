@@ -30,7 +30,7 @@
     color: $white;
     display: block;
     &:hover {
-      color: $highlight-color;
+      color: $highlight-color_inverse;
       cursor: pointer;
     }
   }

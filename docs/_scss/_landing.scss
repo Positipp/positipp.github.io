@@ -3,7 +3,9 @@
 }
 
 .header-bg-img {
-  background-image: url("../assets/spotify_office.jpg");
+  background-image: url("../assets/mountains.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: $primary-color;
   min-height: 340px;
 }
