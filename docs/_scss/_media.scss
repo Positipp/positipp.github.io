@@ -86,3 +86,11 @@ video.video-responsive {
     margin-top: $layout-spacing;
   }
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

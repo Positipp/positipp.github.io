@@ -16,7 +16,7 @@ Estos son los datos a los que **NUNCA** vamos a acceder:
 
 Como es de entender, sí que analizamos el uso de la aplicación, y extraemos métricas de esos datos tanto para calcular tu IBP como el de tu equipo y compañía. 
 
-![Wellness](/assets/wellness.png "Wellness")
+![Wellness](/assets/wellness.png "Wellness"){: .center-image }
 
 Tu IBP personal no puede ser consultado nada mas que por ti mismo. Lo mismo que tus respuestas a encuestas o el tipp de ¿como estás hoy?. 
 
@@ -24,8 +24,9 @@ Otras personas unicamente pueden acceder a datos agregados y anonimizados.
 
 Esto nos lo tomamos muy en serio, ya que es la base de nuestra plataforma y por lo tanto está al mas bajo nivel posible, directamente implementado en nuestro código fuente:
 
-![User Access](/assets/user_access.png "User access")
-![Aggregated data](/assets/aggregated_access.png "Aggregated data")
+![User Access](/assets/user_access.png "User access"){: .center-image }
+
+![Aggregated data](/assets/aggregated_access.png "Aggregated data"){: .center-image }
 
 Estos son los datos que usa la App:
 - Monitorizacíon del uso de la app. Para poder extraer patrones de uso y poder mejorarla.

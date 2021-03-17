@@ -11,4 +11,4 @@ short-description: ¿Problemas con el acceso? ¿Se te ha olvidado la contraseña
 
 ##TODO
 - Recuperacion de contraseña
-- Cambio de pass
+- link a cambio de pass
