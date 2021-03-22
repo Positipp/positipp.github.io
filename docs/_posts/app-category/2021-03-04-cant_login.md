@@ -23,5 +23,5 @@ En unos minutos te llegará un correo electrónico con una contraseña temporal 
 
 Asegurate de utilizar una contraseña segura pero fácil de recordar. [Aquí](https://www.xataka.com/basics/como-escoger-contrasena-segura-mantenerla-que-dicen-expertos){:target="_blank"} tienes algunos consejos.
 
-Positipp te enviará un correo avisándote de cualquier petición de cambio de contraseña por seguridad. En el caso de que no la hayas realizado tu, por favor [infórmanos](mailto:gdpr@positipp.com) sobre ello para tomar las medidas oportunas.
+Positipp te enviará un correo avisándote de cualquier petición de cambio de contraseña por seguridad. En el caso de que no la hayas realizado tu, por favor [infórmanos](mailto:security@positipp.com) sobre ello para tomar las medidas oportunas.
 
