@@ -3,7 +3,7 @@
 app-category:
   name: la App
   description: Aprende cómo usar la App de Positipp
-  articles: 12
+  articles: 13
 dashboard-category:
   name: el Dashboard
   description: Resuelve tus dudas del dashboard
