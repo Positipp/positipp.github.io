@@ -7,7 +7,7 @@ author: rafa
 short-description: ¿Problemas con el acceso? ¿Se te ha olvidado la contraseña?
 ---
 
-En el caso de que no puedas acceder a la plataforma, lo primero es confirmar que has sido dada de alta en la misma. Deberías tener un correo confirmandó dicha alta con una contraseña temporal. Comprueba tu bandeja de **spam** por si tu cliente de correo lo ha movido a ese buzón.
+En el caso de que no puedas acceder a la plataforma, lo primero es confirmar que has sido dada de alta en la misma. Deberías tener un correo confirmando dicha alta con una contraseña temporal. Comprueba tu bandeja de **spam** por si tu cliente de correo lo ha movido a ese buzón.
 
 En el caso de que la contraseña indicada en dicho correo no funcione, o que no recuerdes tu contraseña actual, puedes solicitar una nueva temporal desde la pantalla de acceso:
 
