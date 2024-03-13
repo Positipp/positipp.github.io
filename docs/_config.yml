@@ -61,12 +61,12 @@ nav_button_link: https://positipp.github.io
 
 # More Help
 help_one_title: Dudas
-help_one_content: Si no encuentras aquí lo que necesitas siempre puedes contactarnos por correo.
+help_one_content: Si no encuentras aquí lo que necesitas, o encuentras algún error, siempre puedes contactarnos por correo.
 help_one_button: Email
 help_one_link: mailto:hello@positipp.com
 
 help_two_title: Errores
-help_two_content: Si encuentras algun error o problema con Positipp, por favor abre una issue en Github.
+help_two_content: Si encuentras algún error o problema con Positipp, por favor abre una issue en Github.
 help_two_button: Github
 help_two_link: https://github.com/Positipp/positipp.github.io/issues 
 
