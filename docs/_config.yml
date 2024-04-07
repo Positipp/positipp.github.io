@@ -74,7 +74,7 @@ help_two_link: https://github.com/Positipp/positipp.github.io/issues
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-last-modified-at
+  # - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.
