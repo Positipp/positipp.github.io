@@ -36,6 +36,7 @@
   padding: 0;
   position: relative;
   width: 100%;
+
   &::before {
     content: "";
     display: block;
@@ -87,10 +88,16 @@ video.video-responsive {
   }
 }
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-    max-width: 100%;
-    height: auto;
+.center-image {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.center-medium-image {
+  margin: 0 auto;
+  display: block;
+  max-width: 50%;
+  height: auto;
 }
