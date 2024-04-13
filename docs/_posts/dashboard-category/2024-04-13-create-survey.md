@@ -7,10 +7,6 @@ author: santi
 short-description: Como crear y configurar encuestas desde el panel de gestión.
 ---
 
-**Este articulo estará disponible próximamente**
-
-**WIP**
-
 Desde la administración de Positipp se pueden crear encuestas de diferentes tipos y que se lanzarán para los colectivos que se indique. Para ello se procederá de la siguiente forma: 
 
 Se accede desde la consola de administración de Positipp, accediendo en el menú a la opción “Encuestas” 
@@ -40,9 +36,14 @@ Estos tres campos (título-asunto-descripción) es importante sean breves y hay 
 * **Valido hasta:** La encuesta será válida para que se conteste desde el momento en que se publique hasta la fecha que indiquemos aquí.  
 * **Visibilidad:** Si la encuesta es “Publica” todos verán los resultados (siempre que haya más de 3 respuestas ya emitidas). Si es “Privada” no se mostrarán los resultados a los participantes.
 
+---
+
 ## Tipos de encuestas
 
-En Positipp las encuestas podrán ser de dos tipos 
+En Positipp las encuestas podrán ser de dos tipos:
+* [Emoticonos](#emoticonos)
+* [Opción única](#opción-única)
+  
 
 #### Emoticonos
 
@@ -71,7 +72,26 @@ Es importante recordar que
 
 !["Detalle de encuesta de emoticonos respondida](/assets/survey-new-icons-detail-comments.png "Detalle de encuesta de emoticonos respondida"){: .center-medium-image}
 
+#### Opción única
 
----
+El otro tipo de encuestas es la de *“Opción única”*. En este caso se pueden plantear 5 opciones de respuesta al usuario entre las cuales deberá seleccionar una.
 
-![Nueva encuesta](/assets/survey-new.png "Nueva encuesta"){: .center-medium-image}
+Un ejemplo sería el siguiente: 
+
+![Nueva encuesta de opción única](/assets/survey-new-option.png "Nueva encuesta de opción única"){: .center-image}
+
+Y al publicar el usuario participante la vería así en su timeline: 
+
+![Nueva encuesta de opción única en el timeline del usuario](/assets/survey-new-option-timeline.png "Nueva encuesta de opción única en el timeline del usuario"){: .center-medium-image}
+
+Y al acceder podrá ver la pregunta y seleccionar la opción que corresponda:
+
+!["Detalle de encuesta de opción única](/assets/survey-new-option-detail.png "Detalle de encuesta de opción única"){: .center-medium-image }
+
+Y recordemos, una vez conteste el usuario no podrá cambiar su votación 
+
+!["Detalle de encuesta de opción única respondida](/assets/survey-new-option-detail-answered.png "Detalle de encuesta de opción única respondida"){: .center-medium-image }
+
+Finalmente, en la pantalla inicial de encuestas se podrá ver (siempre que haya más de 3 votos emitidos) el resultado de la última encuesta en la parte superior, o el de cualquier otra. Y se puede comprobar el número de respuestas emitidas y el % de personas que contestaron del total que la recibieron. 
+
+![Vista de resultados de una encuesta](/assets/survey-new-option-summary.png "Vista de resultados de una encuesta"){: .center-image}
