@@ -7,7 +7,7 @@ app-category:
 dashboard-category:
   name: el Dashboard
   description: Resuelve tus dudas del dashboard
-  articles: 3
+  articles: 4
 about-category:
   name: acerca de
   description: Sobre nosotros y Positipp
